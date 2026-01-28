@@ -1,4 +1,4 @@
-Sal's Shipping
+**Sal's Shipping**
 Sal runs the biggest shipping company in the tri-county area, Sal’s Shippers. Sal wants to make sure that every single one of his customers has the best, and most affordable experience shipping their packages.
 
 In this project, you’ll build a program that will take the weight of a package and determine the cheapest way to ship that package using Sal’s Shippers.
@@ -43,35 +43,9 @@ Create an if/elif/else statement for the cost of ground shipping. It should chec
 
 3.
 A package that weighs 8.4 pounds should cost $53.60 to ship with normal ground shipping:
-
-8
-.
-4
- 
-l
-b
-×
-$
-4
-.
-0
-0
-+
-$
-2
-0
-.
-0
-0
-=
-$
-5
-3
-.
-6
-0
 8.4 lb×$4.00+$20.00=$53.60
 Test that your ground shipping calculation gets the same value.
+
 
 Ground Shipping Premium:
 4.
@@ -92,42 +66,16 @@ Create an if/elif/else statement for the cost of drone shipping. This statement 
 
 7.
 A package that weighs 1.5 pounds should cost $6.75 to ship by drone:
-
-1
-.
-5
- 
-l
-b
-×
-$
-4
-.
-5
-0
-+
-$
-0
-.
-0
-0
-=
-$
-6
-.
-7
-5
-1.5 lb×$4.50+$0.00=$6.75
 Test that your drone shipping calculation gets the same value.
 
 Solution:
-8.
+9.
 Great job! Now, test everything one more time!
 
 What is the cheapest method of shipping a 4.8 pound package and how much would it cost?
 
 What is the cheapest method of shipping a 41.5 pound package and how much would it cost?
 
-(See hint for answers)Over 10 lb	$14.25	$0.00
+Over 10 lb	$14.25	$0.00
 
 Write a shipping.py Python program that takes the weight of a package and then calculates which method of shipping is the cheapest and how much it will cost to ship the package using Sal’s Shippers.
